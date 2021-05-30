@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Boat>
+    <vehicleModel>asd</vehicleModel>
+    <vehicleType>Boat</vehicleType>
+    <displacement>0</displacement>
+</Boat>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Train>
+    <vehicleModel>11123</vehicleModel>
+    <vehicleType>Train</vehicleType>
+</Train>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Train>
+    <vehicleModel>11123</vehicleModel>
+    <vehicleType>Train</vehicleType>
+</Train>

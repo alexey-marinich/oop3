@@ -1,0 +1,3 @@
+Boat asd class sample.transport.vehicle.Boat 10
+Train 11123 class sample.transport.vehicle.Train 10
+Train 11123 class sample.transport.vehicle.Train 10
